@@ -78,7 +78,7 @@ export default function Home() {
           </div>
           <div className="flex justify-around md-max:justify-start flex-wrap pt-32 p-4 md-max:pt-24">
             <div className="relative">
-              <button className="absolute top-[-60] left-0 w-[150px] bg-white md-max:bg-tooltipMobile md-max:text-white rounded-[8px] h-[39px] text-[18px] font-extrabold text-second">
+              <button className="absolute top-[-60px] left-0 w-[150px] bg-white md-max:bg-tooltipMobile md-max:text-white rounded-[8px] h-[39px] text-[18px] font-extrabold text-second">
                 풀타임, 파트타임
                 <div className="relative">
                   <Image
